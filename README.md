@@ -56,8 +56,6 @@ This repository contains a RESTful API built with Laravel for managing a movie l
 #### Ratings
 
 * POST `/api/ratings`: Create a new rating for a movie.
-* GET `/api/ratings`: Retrieve a list of ratings.
-* GET `/api/ratings/{id}`: Retrieve a single rating by ID.
 * PUT `/api/ratings/{id}`: Update a rating by ID.
 * DELETE `/api/ratings/{id}`: Delete a rating by ID.
 
